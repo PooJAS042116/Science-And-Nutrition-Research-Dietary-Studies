@@ -1,0 +1,38 @@
+What is FNDDS?
+The USDA Food and Nutrient Database for Dietary Studies (FNDDS) converts foods and
+beverages consumed in What We Eat in America (WWEIA), National Health and Nutrition
+Examination Survey (NHANES) into gram amounts and determines their nutrient values.
+Appendix A lists abbreviations used in this documentation. The FNDDS 2017-2018 is the ninth
+version released.
+How can FNDDS be used?
+Because the FNDDS generates the nutrient intake data files for WWEIA, NHANES, researchers
+do not need to use the FNDDS to estimate the nutrient intake for the survey respondents.
+FNDDS is made available for researchers to review the nutrient profiles for specific foods and
+beverages that were consumed in the WWEIA, NHANES in the corresponding survey years as
+well as their associated portions and recipe calculations. Such detailed information makes it
+possible to conduct enhanced analysis of dietary intakes. Additionally, FNDDS can be applied
+in other dietary research studies to determine the amounts of nutrients/food components in food
+and beverages.
+What We Eat in America, NHANES
+The NHANES is a nationally representative, cross-sectional survey designed to monitor the
+health and nutritional status of the civilian, noninstitutionalized U.S. population and is conducted
+by the Centers for Disease Control and Prevention’s National Center for Health Statistics.
+NHANES is a continuous survey with data releases every two years. Each 2-year cycle includes
+about 9,000 participants from sampled counties across the country.
+The Food Surveys Research Group of the Beltsville Human Nutrition Research Center of USDA’s
+Agricultural Service has lead responsibility for the survey’s dietary data collection methodology
+and maintenance of the databases used to code and process data. Trained interviewers using
+the 5-step USDA Automated Multiple-Pass Method (AMPM) collect dietary intakes. The AMPM
+includes an extensive compilation of standardized food-specific questions and possible response
+options. Routing of questions is based on previous responses. An initial 24- hour recall (day 1) is
+collected in-person at a NHANES Mobile Examination Center; a second recall (day 2) is collected
+by telephone 3-10 days later. The AMPM was validated in a large study and shown to be an
+effective method for accurately assessing group energy (Moshfegh et al, 2008) and sodium
+intake of adults (Rhodes et al, 2013).
+The AMPM is revised for each 2-year collection of WWEIA to reflect the changing food supply
+and to address research needs from the data user community. The FNDDS is also modified to
+reflect AMPM revisions as well as changes in consumption patterns and availability of nutrient
+values. A new version is released to accompany each 2-year release of WWEIA, NHANES
+(Bodner-Montville et al). This version (FNDDS 2017-2018) was used to process WWEIA,
+NHANES 2017-2018 and reflects the food supply during this period. It is not recommended to
+use a version of FNDDS other than the database associated with the given survey cycle.
