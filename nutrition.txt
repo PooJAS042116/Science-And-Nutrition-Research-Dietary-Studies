@@ -33,3 +33,5 @@ models that utilize methodologic approaches or techniques in biochemistry, immun
 toxicology, and physiology. Epidemiological studies on food, nutrient, and/or phytochemical intakes in human
 populations and novel analytical techniques for these compounds are within the scope of the mission for Nutrition
 Research. 
+
+new verion 1.2.1
